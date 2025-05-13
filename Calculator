@@ -1,2 +1,7 @@
 Console.WriteLine("Saqlain");
 Console.WriteLine("24-ST-077");
+
+int a = 5;
+int b = 6;
+int division = a/b;
+Console.WriteLine($"The division of a & b is"+{division}):
